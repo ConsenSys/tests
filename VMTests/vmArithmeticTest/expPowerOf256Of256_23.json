@@ -2,7 +2,7 @@
     "expPowerOf256Of256_23" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.20fd386a.Darwin.appleclang",
+            "filledwith" : "cpp-1.3.0+commit.d4b04eff.Darwin.appleclang",
             "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/VMTestsFiller/vmArithmeticTest/expPowerOf256Of256_23Filler.json",
             "sourceHash" : "73a851bb2f2033ee7a403b3ff65a627695c6eae37b1ab2a79b96533fad5fd14e"
