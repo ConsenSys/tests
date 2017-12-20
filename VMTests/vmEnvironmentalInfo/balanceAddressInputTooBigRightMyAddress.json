@@ -36,13 +36,6 @@
                 "nonce" : "0x00",
                 "storage" : {
                 }
-            },
-            "0x572e5295c57f15886f9b263e2f6d2d6c7b5ec6aa" : {
-                "balance" : "0x00",
-                "code" : "0x",
-                "nonce" : "0x00",
-                "storage" : {
-                }
             }
         },
         "pre" : {

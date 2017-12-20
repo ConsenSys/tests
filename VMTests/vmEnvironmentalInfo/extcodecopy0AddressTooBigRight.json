@@ -37,13 +37,6 @@
                 "storage" : {
                 }
             },
-            "0x1722f3947def4cf144679da39c4c32bdc35681aa" : {
-                "balance" : "0x00",
-                "code" : "0x",
-                "nonce" : "0x00",
-                "storage" : {
-                }
-            },
             "0xcd1722f3947def4cf144679da39c4c32bdc35681" : {
                 "balance" : "0x152d02c7e14af6800000",
                 "code" : "0x6005600055",
