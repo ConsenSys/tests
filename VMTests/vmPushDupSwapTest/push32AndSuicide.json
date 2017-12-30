@@ -2,7 +2,7 @@
     "push32AndSuicide" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.97bd859a.Darwin.appleclang",
+            "filledwith" : "cpp-1.3.0+commit.c8c3c60d.Darwin.appleclang",
             "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/VMTestsFiller/vmPushDupSwapTest/push32AndSuicideFiller.json",
             "sourceHash" : "af183885a76f539a582fdea8b5e208af8bb8a7eeee650fc577c7bbe08e7dd573"
@@ -30,6 +30,13 @@
         "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
         "out" : "0x",
         "post" : {
+            "0x0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6" : {
+                "balance" : "0x152d02c7e14af6800000",
+                "code" : "0x7fff10112233445566778899aabbccddeeff00112233445566778899aabbccddeeff600355",
+                "nonce" : "0x00",
+                "storage" : {
+                }
+            },
             "0xbbccddeeff00112233445566778899aabbccddee" : {
                 "balance" : "0x152d02c7e14af6800000",
                 "code" : "0x",

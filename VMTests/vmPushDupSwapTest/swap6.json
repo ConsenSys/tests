@@ -2,7 +2,7 @@
     "swap6" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.97bd859a.Darwin.appleclang",
+            "filledwith" : "cpp-1.3.0+commit.c8c3c60d.Darwin.appleclang",
             "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/VMTestsFiller/vmPushDupSwapTest/swap6Filler.json",
             "sourceHash" : "1bc51662e33ac34a79297262ee86f8b8e7cab89949abf037fc22f85ee08fdada"

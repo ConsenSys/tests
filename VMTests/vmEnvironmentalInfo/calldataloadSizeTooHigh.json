@@ -2,7 +2,7 @@
     "calldataloadSizeTooHigh" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.97bd859a.Darwin.appleclang",
+            "filledwith" : "cpp-1.3.0+commit.c8c3c60d.Darwin.appleclang",
             "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/VMTestsFiller/vmEnvironmentalInfo/calldataloadSizeTooHighFiller.json",
             "sourceHash" : "f9fe6f79a4a39e7f40e3c2d20e639a2ef0ad691e40ff63085d000d4c62a6b4c0"

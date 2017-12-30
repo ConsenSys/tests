@@ -2,7 +2,7 @@
     "balanceAddressInputTooBigRightMyAddress" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.97bd859a.Darwin.appleclang",
+            "filledwith" : "cpp-1.3.0+commit.c8c3c60d.Darwin.appleclang",
             "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/VMTestsFiller/vmEnvironmentalInfo/balanceAddressInputTooBigRightMyAddressFiller.json",
             "sourceHash" : "b1dab6208fa3c4f0be0a92a13680950aad7ba080236def7855bc20ad296a739e"
@@ -33,13 +33,6 @@
             "0x0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6" : {
                 "balance" : "0x152d02c7e14af6800000",
                 "code" : "0x740f572e5295c57f15886f9b263e2f6d2d6c7b5ec6aa31600055",
-                "nonce" : "0x00",
-                "storage" : {
-                }
-            },
-            "0x572e5295c57f15886f9b263e2f6d2d6c7b5ec6aa" : {
-                "balance" : "0x00",
-                "code" : "0x",
                 "nonce" : "0x00",
                 "storage" : {
                 }
