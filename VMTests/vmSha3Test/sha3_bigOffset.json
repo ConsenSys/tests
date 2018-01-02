@@ -1,9 +1,21 @@
 {
     "sha3_bigOffset" : {
+        "Byzantium" : {
+        },
+        "Constantinople" : {
+        },
+        "EIP150" : {
+        },
+        "EIP158" : {
+        },
+        "Frontier" : {
+        },
+        "Homestead" : {
+        },
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.6e0ce939.Linux.g++",
-            "lllcversion" : "Version: 0.4.18-develop.2017.9.25+commit.a72237f2.Linux.g++",
+            "filledwith" : "cpp-1.3.0+commit.f5ddbbc2.Darwin.appleclang",
+            "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/VMTestsFiller/vmSha3Test/sha3_bigOffsetFiller.json",
             "sourceHash" : "1ae2cdfa2e3ab1cac89d8b3d535c3ee50601ebc6098fdbddadca74980eec6382"
         },

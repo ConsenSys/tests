@@ -1,9 +1,21 @@
 {
     "jumpiToUintmaxPlus1" : {
+        "Byzantium" : {
+        },
+        "Constantinople" : {
+        },
+        "EIP150" : {
+        },
+        "EIP158" : {
+        },
+        "Frontier" : {
+        },
+        "Homestead" : {
+        },
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.6e0ce939.Linux.g++",
-            "lllcversion" : "Version: 0.4.18-develop.2017.9.25+commit.a72237f2.Linux.g++",
+            "filledwith" : "cpp-1.3.0+commit.f5ddbbc2.Darwin.appleclang",
+            "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/VMTestsFiller/vmIOandFlowOperations/jumpiToUintmaxPlus1Filler.json",
             "sourceHash" : "a7c8710b99f2c8dde5485783bd0d07fe81f51cb06afab6cbf360ffc25074017c"
         },

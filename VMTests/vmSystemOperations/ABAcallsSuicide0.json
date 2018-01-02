@@ -1,20 +1,144 @@
 {
     "ABAcallsSuicide0" : {
+        "Byzantium" : {
+            "callcreates" : [
+                {
+                    "data" : "0x",
+                    "destination" : "0x945304eb96065b2a98b57a48a06ae28d285a71b5",
+                    "gasLimit" : "0x0ce4",
+                    "value" : "0x18"
+                }
+            ],
+            "gas" : "0x09184e723772",
+            "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+            "out" : "0x",
+            "post" : {
+                "0x945304eb96065b2a98b57a48a06ae28d285a71b5" : {
+                    "balance" : "0x152d02c7e14af6800017",
+                    "code" : "0x60006000600060006017730f572e5295c57f15886f9b263e2f6d2d6c7b5ec66101f4f16001015855",
+                    "nonce" : "0x00",
+                    "storage" : {
+                    }
+                }
+            }
+        },
+        "Constantinople" : {
+            "callcreates" : [
+                {
+                    "data" : "0x",
+                    "destination" : "0x945304eb96065b2a98b57a48a06ae28d285a71b5",
+                    "gasLimit" : "0x0ce4",
+                    "value" : "0x18"
+                }
+            ],
+            "gas" : "0x09184e723772",
+            "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+            "out" : "0x",
+            "post" : {
+                "0x945304eb96065b2a98b57a48a06ae28d285a71b5" : {
+                    "balance" : "0x152d02c7e14af6800017",
+                    "code" : "0x60006000600060006017730f572e5295c57f15886f9b263e2f6d2d6c7b5ec66101f4f16001015855",
+                    "nonce" : "0x00",
+                    "storage" : {
+                    }
+                }
+            }
+        },
+        "EIP150" : {
+            "callcreates" : [
+                {
+                    "data" : "0x",
+                    "destination" : "0x945304eb96065b2a98b57a48a06ae28d285a71b5",
+                    "gasLimit" : "0x0ce4",
+                    "value" : "0x18"
+                }
+            ],
+            "gas" : "0x09184e723772",
+            "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+            "out" : "0x",
+            "post" : {
+                "0x945304eb96065b2a98b57a48a06ae28d285a71b5" : {
+                    "balance" : "0x152d02c7e14af6800017",
+                    "code" : "0x60006000600060006017730f572e5295c57f15886f9b263e2f6d2d6c7b5ec66101f4f16001015855",
+                    "nonce" : "0x00",
+                    "storage" : {
+                    }
+                }
+            }
+        },
+        "EIP158" : {
+            "callcreates" : [
+                {
+                    "data" : "0x",
+                    "destination" : "0x945304eb96065b2a98b57a48a06ae28d285a71b5",
+                    "gasLimit" : "0x0ce4",
+                    "value" : "0x18"
+                }
+            ],
+            "gas" : "0x09184e723772",
+            "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+            "out" : "0x",
+            "post" : {
+                "0x945304eb96065b2a98b57a48a06ae28d285a71b5" : {
+                    "balance" : "0x152d02c7e14af6800017",
+                    "code" : "0x60006000600060006017730f572e5295c57f15886f9b263e2f6d2d6c7b5ec66101f4f16001015855",
+                    "nonce" : "0x00",
+                    "storage" : {
+                    }
+                }
+            }
+        },
+        "Frontier" : {
+            "callcreates" : [
+                {
+                    "data" : "0x",
+                    "destination" : "0x945304eb96065b2a98b57a48a06ae28d285a71b5",
+                    "gasLimit" : "0x0ce4",
+                    "value" : "0x18"
+                }
+            ],
+            "gas" : "0x09184e723772",
+            "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+            "out" : "0x",
+            "post" : {
+                "0x945304eb96065b2a98b57a48a06ae28d285a71b5" : {
+                    "balance" : "0x152d02c7e14af6800017",
+                    "code" : "0x60006000600060006017730f572e5295c57f15886f9b263e2f6d2d6c7b5ec66101f4f16001015855",
+                    "nonce" : "0x00",
+                    "storage" : {
+                    }
+                }
+            }
+        },
+        "Homestead" : {
+            "callcreates" : [
+                {
+                    "data" : "0x",
+                    "destination" : "0x945304eb96065b2a98b57a48a06ae28d285a71b5",
+                    "gasLimit" : "0x0ce4",
+                    "value" : "0x18"
+                }
+            ],
+            "gas" : "0x09184e723772",
+            "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
+            "out" : "0x",
+            "post" : {
+                "0x945304eb96065b2a98b57a48a06ae28d285a71b5" : {
+                    "balance" : "0x152d02c7e14af6800017",
+                    "code" : "0x60006000600060006017730f572e5295c57f15886f9b263e2f6d2d6c7b5ec66101f4f16001015855",
+                    "nonce" : "0x00",
+                    "storage" : {
+                    }
+                }
+            }
+        },
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.6e0ce939.Linux.g++",
-            "lllcversion" : "Version: 0.4.18-develop.2017.9.25+commit.a72237f2.Linux.g++",
+            "filledwith" : "cpp-1.3.0+commit.f5ddbbc2.Darwin.appleclang",
+            "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/VMTestsFiller/vmSystemOperations/ABAcallsSuicide0Filler.json",
             "sourceHash" : "f1721dc044126fc3514f95ecb89667363c11b492ca3a533d68025b49a7d61fcb"
         },
-        "callcreates" : [
-            {
-                "data" : "0x",
-                "destination" : "0x945304eb96065b2a98b57a48a06ae28d285a71b5",
-                "gasLimit" : "0x0ce4",
-                "value" : "0x18"
-            }
-        ],
         "env" : {
             "currentCoinbase" : "0x2adc25665018aa1fe0e6bc666dac8fc2697ff9ba",
             "currentDifficulty" : "0x0100",
@@ -31,18 +155,6 @@
             "gasPrice" : "0x5af3107a4000",
             "origin" : "0xcd1722f3947def4cf144679da39c4c32bdc35681",
             "value" : "0x0186a0"
-        },
-        "gas" : "0x09184e723772",
-        "logs" : "0x1dcc4de8dec75d7aab85b567b6ccd41ad312451b948a7413f0a142fd40d49347",
-        "out" : "0x",
-        "post" : {
-            "0x945304eb96065b2a98b57a48a06ae28d285a71b5" : {
-                "balance" : "0x152d02c7e14af6800017",
-                "code" : "0x60006000600060006017730f572e5295c57f15886f9b263e2f6d2d6c7b5ec66101f4f16001015855",
-                "nonce" : "0x00",
-                "storage" : {
-                }
-            }
         },
         "pre" : {
             "0x0f572e5295c57f15886f9b263e2f6d2d6c7b5ec6" : {
