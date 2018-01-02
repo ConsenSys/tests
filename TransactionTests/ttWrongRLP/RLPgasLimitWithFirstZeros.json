@@ -14,8 +14,8 @@
         },
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.1829957d.Linux.g++",
-            "lllcversion" : "Version: 0.4.18-develop.2017.10.11+commit.81f9f86c.Linux.g++",
+            "filledwith" : "cpp-1.3.0+commit.97bd859a.Darwin.appleclang",
+            "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/TransactionTestsFiller/ttWrongRLP/RLPgasLimitWithFirstZerosCopier.json",
             "sourceHash" : "d03ec6a2c637c99c502d1bbf20108f3e941d7608cf4df08c7ad5f20624dcce86"
         },
