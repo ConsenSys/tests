@@ -2,8 +2,8 @@
     "log_2logs" : {
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.6e0ce939.Linux.g++",
-            "lllcversion" : "Version: 0.4.18-develop.2017.9.25+commit.a72237f2.Linux.g++",
+            "filledwith" : "cpp-1.3.0+commit.d4b04eff.Darwin.appleclang",
+            "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/VMTestsFiller/vmLogTest/log_2logsFiller.json",
             "sourceHash" : "5f06d581898ac68c320f28dc72988dfae3989b57cf646b3b0b27bda59c5ad3e0"
         },
