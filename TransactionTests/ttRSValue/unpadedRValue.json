@@ -26,11 +26,22 @@
         },
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.97bd859a.Darwin.appleclang",
+            "filledwith" : "cpp-1.3.0+commit.fd35ad51.Darwin.appleclang",
             "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/TransactionTestsFiller/ttRSValue/unpadedRValueFiller.json",
             "sourceHash" : "98e180618fa41585e32ca6b5b8467d995342d4a0bf83faa56ad4b834bf0ebb28"
         },
-        "rlp" : "0xf8880d8609184e72a00082f710947c47ef93268a311f4cad0c750724299e9b72c26880a4379607f500000000000000000000000000000000000000000000000000000000000000051c9f6ab6dda9f4df56ea45583af36660329147f1753f3724ea5eb9ed83e812ca77a0495701e230667832c8999e884e366a61028633ecf951e8cd66d119f381ae5718"
+        "rlp" : "0xf8880d8609184e72a00082f710947c47ef93268a311f4cad0c750724299e9b72c26880a4379607f500000000000000000000000000000000000000000000000000000000000000051c9f6ab6dda9f4df56ea45583af36660329147f1753f3724ea5eb9ed83e812ca77a0495701e230667832c8999e884e366a61028633ecf951e8cd66d119f381ae5718",
+        "transaction" : {
+            "data" : "0x379607f50000000000000000000000000000000000000000000000000000000000000005",
+            "gasLimit" : "0xf710",
+            "gasPrice" : "0x09184e72a000",
+            "nonce" : "0x0d",
+            "r" : "0x006ab6dda9f4df56ea45583af36660329147f1753f3724ea5eb9ed83e812ca77",
+            "s" : "0x495701e230667832c8999e884e366a61028633ecf951e8cd66d119f381ae5718",
+            "to" : "0x7c47ef93268a311f4cad0c750724299e9b72c268",
+            "v" : "0x1c",
+            "value" : "0x00"
+        }
     }
 }

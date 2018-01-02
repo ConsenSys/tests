@@ -20,11 +20,22 @@
         },
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.97bd859a.Darwin.appleclang",
+            "filledwith" : "cpp-1.3.0+commit.fd35ad51.Darwin.appleclang",
             "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/TransactionTestsFiller/ttVValue/V_equals37Filler.json",
             "sourceHash" : "89ef69312d4c0b4e3742da501263d23d2a64f180258ac93940997ac6a17b9b19"
         },
-        "rlp" : "0xf865808698852840a46f82d6d894095e7baea6a6c7c4c2dfeb977efac326af552d87808025a098ff921201554726367d2be8c804a7ff89ccf285ebc57dff8ae4c44b9c19ac4aa01887321be575c8095f789dd4c743dfe42c1820f9231f98a962b210e3ac2452a3"
+        "rlp" : "0xf865808698852840a46f82d6d894095e7baea6a6c7c4c2dfeb977efac326af552d87808025a098ff921201554726367d2be8c804a7ff89ccf285ebc57dff8ae4c44b9c19ac4aa01887321be575c8095f789dd4c743dfe42c1820f9231f98a962b210e3ac2452a3",
+        "transaction" : {
+            "data" : "",
+            "gasLimit" : "0xd6d8",
+            "gasPrice" : "0x98852840a46f",
+            "nonce" : "0x00",
+            "r" : "0x98ff921201554726367d2be8c804a7ff89ccf285ebc57dff8ae4c44b9c19ac4a",
+            "s" : "0x1887321be575c8095f789dd4c743dfe42c1820f9231f98a962b210e3ac2452a3",
+            "to" : "0x095e7baea6a6c7c4c2dfeb977efac326af552d87",
+            "v" : "0x25",
+            "value" : "0x00"
+        }
     }
 }

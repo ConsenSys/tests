@@ -20,11 +20,22 @@
         },
         "_info" : {
             "comment" : "",
-            "filledwith" : "cpp-1.3.0+commit.97bd859a.Darwin.appleclang",
+            "filledwith" : "cpp-1.3.0+commit.fd35ad51.Darwin.appleclang",
             "lllcversion" : "Version: 0.4.20-develop.2017.12.20+commit.a4b886ad.Darwin.appleclang",
             "source" : "src/TransactionTestsFiller/ttSignature/Vitalik_8Filler.json",
             "sourceHash" : "70222e694a2134650c2a37790fa5dd24dc2bb05ef1be412659f1bf4290a0f7e9"
         },
-        "rlp" : "0xf866068504a817c80683023e3894353535353535353535353535353535353535353581d88025a06455bf8ea6e7463a1046a0b52804526e119b4bf5136279614e0b1e8e296a4e2fa06455bf8ea6e7463a1046a0b52804526e119b4bf5136279614e0b1e8e296a4e2d"
+        "rlp" : "0xf866068504a817c80683023e3894353535353535353535353535353535353535353581d88025a06455bf8ea6e7463a1046a0b52804526e119b4bf5136279614e0b1e8e296a4e2fa06455bf8ea6e7463a1046a0b52804526e119b4bf5136279614e0b1e8e296a4e2d",
+        "transaction" : {
+            "data" : "",
+            "gasLimit" : "0x023e38",
+            "gasPrice" : "0x04a817c806",
+            "nonce" : "0x06",
+            "r" : "0x6455bf8ea6e7463a1046a0b52804526e119b4bf5136279614e0b1e8e296a4e2f",
+            "s" : "0x6455bf8ea6e7463a1046a0b52804526e119b4bf5136279614e0b1e8e296a4e2d",
+            "to" : "0x3535353535353535353535353535353535353535",
+            "v" : "0x25",
+            "value" : "0xd8"
+        }
     }
 }
